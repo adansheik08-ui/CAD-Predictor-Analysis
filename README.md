@@ -105,4 +105,4 @@ Moreover:
 
 My name is Adan Sheik. As a long-time resident of Northeast Ohio and aspiring bioinformaticist, I am very passionate about this project, and plan to make additions in the future. Let me know if you want to connect!
 
-- [Linkedn](https://www.linkedin.com/in/adan-sheik-391400339/)
+- [Linkedin](https://www.linkedin.com/in/adan-sheik-391400339/)
