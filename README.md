@@ -2,7 +2,7 @@
 
 # Overview
 
-In this notebook, I aim to identify the top predictors of heart disease severity out of the 14 features collected by the UCI researchers and use those features to train an accurate predictive machine learning algorithm.
+In this notebook, I aim to identify the top predictors of heart disease severity out of the 13 features collected by the UCI researchers and use those features to train an accurate predictive machine learning algorithm.
 
 # Objectives
 
