@@ -1,3 +1,4 @@
+![Project Thumbnail](Figures/Categorical_forest.png)
 # CAD Predictor Analysis Using Non-Parametric Methods
 
 # Overview
