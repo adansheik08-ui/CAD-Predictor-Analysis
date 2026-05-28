@@ -1,5 +1,5 @@
 ![Project Thumbnail](Figures/Categorical_forest.png)
-# CAD Predictor Analysis Using Non-Parametric Methods
+# Heart Disease Risk Analysis Using Statistical Inference and Logistic Regression 
 
 # Overview
 
